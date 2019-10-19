@@ -17,12 +17,6 @@ You need to download for **manually:**
 
 **https://www.cryptopp.com/downloads.html**
 
-**https://github.com/blackdragonx61/Metin2-Client-Build-With-VS2019/blob/master/cryptoppLibLink.h**
-
-**https://github.com/blackdragonx61/Metin2-Client-Build-With-VS2019/blob/master/JpegFile.cpp**
-
-**https://github.com/blackdragonx61/Metin2-Client-Build-With-VS2019/blob/master/JpegFile.h**
-
 # Codes from tutorial:
 
 | 8                     | 9                                                               | 10                                       |
