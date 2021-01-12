@@ -8,12 +8,10 @@
 
 **Packages(Prepared SRC):**
 
-| Granny 2.11.8 | libjpeg-9a | Python-2.7 | Boost-1.74 | Crypto++ 8.2.0 | DevIL-1.8.0 | lzo-2.10 |
-|---------------|------------|------------|------------|----------------|----------------|----------------|
+| Granny 2.11.8 | libjpeg-9a | Python-2.7 | Crypto++ 8.4.0 | DevIL-1.6.5 | lzo-2.10 |
+|---------------|------------|------------|----------------|-------------|----------|
 
-You need to download for **manually:**
-
-**https://www.boost.org/users/download**
+For **manually:**
 
 **https://www.cryptopp.com/downloads.html**
 
